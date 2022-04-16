@@ -4,4 +4,4 @@ In this project we will pull accountability data relative to 11 years of more th
 
 The data came from CVM and is related to all open companies.
 
-I calculated and ploted the P/E ratio for study purpose.
+I calculated and ploted the P/E ratio for study purpose. 
